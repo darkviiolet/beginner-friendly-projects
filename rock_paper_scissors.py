@@ -23,6 +23,5 @@ def is_win(player, opponent):
      or (player == 'p' and opponent == 'r'):
         return True
 
-
 if __name__ == "__main__":
     play()
